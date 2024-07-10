@@ -1,12 +1,12 @@
 # **Bernardo Figueroa Hernández - Desarrollador Web y Consultor**
 
-![Banner](https://via.placeholder.com/1000x300) <!-- Reemplaza con un enlace a tu banner -->
+<!-- Reemplaza con un enlace a tu banner -->
 
 ## **👋 ¡Bienvenido!**
 
 ### **Soy Bernardo Figueroa Hernández, tu experto en desarrollo web y consultoría.**
 
-Con más de [X] años de experiencia en el sector, me dedico a ofrecer soluciones innovadoras y personalizadas para tus proyectos web. Ya sea que necesites desarrollar un nuevo sitio web, mejorar uno existente o consultar sobre las mejores prácticas y tecnologías, estoy aquí para ayudarte.
+Con más de 10 años de experiencia en el sector, me dedico a ofrecer soluciones innovadoras y personalizadas para tus proyectos web. Ya sea que necesites desarrollar un nuevo sitio web, mejorar uno existente o consultar sobre las mejores prácticas y tecnologías, estoy aquí para ayudarte.
 
 ---
 
