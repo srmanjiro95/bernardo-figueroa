@@ -141,7 +141,7 @@ Con más de 10 años de experiencia en el sector, me dedico a ofrecer soluciones
 
 ## **📞 Contáctame**
 
-- **Email:** [tuemail@dominio.com](mailto:bernardofh16@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuperfil]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/bernardo-figueroa-hernandez-509395105/))
+- **Email:** [bernardofh@gmail.com](mailto:bernardofh16@gmail.com)
+- **LinkedIn:** [Bernardo-Figueroa-Hernandez]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/bernardo-figueroa-hernandez-509395105/))
 
 ¡Estoy disponible para nuevos proyectos y colaboraciones! No dudes en contactarme para discutir cómo puedo ayudarte a alcanzar tus objetivos.
